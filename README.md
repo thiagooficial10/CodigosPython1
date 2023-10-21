@@ -3,11 +3,6 @@
 Srs (a), tudo bem?
 Nesse projeto vocês terão disponíveis alguns exercicios em python para praticar, do básico ao intermediário.
 
-Deseja ver os códigos? siga para o branch master 🙂
-
-Não sabe onde fica o branch master?
-Clica no botão "codigo/code" lado superior esquerdo, após clique do lado do nome do projeto, e escolha o branch master.
-
 Atenção:
 
 O GitHub por padrão classifica os repositorios por ordem alfabética, então se você deseja iniciar pelo mais simples, siga a lista abaixo:
@@ -17,6 +12,7 @@ O GitHub por padrão classifica os repositorios por ordem alfabética, então se
 * SomaDireto
 * SomaNumeros
 * SomaMedia
+* ConversorDeMedidas
 * Vendas
 * MediaNotas
 * SucessorEantecessor
@@ -29,6 +25,6 @@ O GitHub por padrão classifica os repositorios por ordem alfabética, então se
 
 Em breve mais exercícios.
 
-Espero que gostem e ajude aos estudantes.
+Espero que gostem e seja útil aos estudantes.
 Bons estudos!
 
