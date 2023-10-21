@@ -18,6 +18,7 @@ O GitHub por padrão classifica os repositorios por ordem alfabética, então se
 * SucessorEantecessor
 * EstruturaRepeticao
 * Imprimir1ao10
+* tabuada
 * ContagemRegressiva
 * ParImpar
 * LeiaNum
